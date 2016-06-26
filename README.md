@@ -9,4 +9,4 @@ This library is under heavy development... Expect changes to the API at any time
 
 This library is released under the MIT license.  See the LICENSE file for details.
 
-** This fork of the above is to inpement and test options for USB serial hardware intorspection and RPC API aliasing of all cryptographic components to a remote hardware security device.
+** This fork of the above is to inplement and test options for USB serial hardware intorspection and RPC API aliasing of all cryptographic components to a remote hardware security device.
